@@ -7,7 +7,7 @@ Welcome to my password checker! Lets see how strong your password is 💪!
 How to Run:
   1. Download the passowrd_checker.py
   2. Using your terminal of choice, navigate to where password_checker.py is located.
-  3. Run this command python password_checker.py. The program will ask you to input a password. Don't worry, it wont show what you are typing on the screen.
+  3. Run this command 'python password_checker.py' The program will ask you to input a password. Don't worry, it wont show what you are typing on the screen.
   4. Press Enter when you are finished
   5. The next line will say how strong your password is
 
